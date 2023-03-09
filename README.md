@@ -8,3 +8,6 @@ The CSV file you'll be updating must in the same Path where the streamlit enviro
 Open the environment and Run whatever Python IDE you use to write the python code
 Open the streamlit environment terminal and run the command 'streamlit run [your code.py]'
 Streamlit should open on your browser
+
+
+![image](https://user-images.githubusercontent.com/99512444/223928854-e03b4b00-8d9f-4b37-9d11-c73e491cdc8b.png)
